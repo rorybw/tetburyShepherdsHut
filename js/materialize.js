@@ -55,7 +55,9 @@ if (typeof(jQuery) === 'undefined') {
 jQuery.easing['jswing'] = jQuery.easing['swing'];
 
 $(document).ready(function(){
-      $('.slider').slider();
+      $('.slider').slider({
+          indicators:false
+      });
     });
 
 $(document).ready(function(){
