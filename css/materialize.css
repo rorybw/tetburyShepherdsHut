@@ -2875,7 +2875,7 @@ ul.staggered-list li {
 
 .page-footer {
   padding-top: 20px;
-  background-color: #ee6e73;
+  background-color: #314F45;
 }
 
 .page-footer .footer-copyright {
@@ -5175,13 +5175,13 @@ small {
 
 .btn:focus, .btn-large:focus,
 .btn-floating:focus {
-  background-color: #1d7d74;
+  background-color: #d13808;
 }
 
 .btn, .btn-large {
   text-decoration: none;
   color: #fff;
-  background-color: #26a69a;
+  background-color: #d13808;
   text-align: center;
   letter-spacing: .5px;
   transition: .2s ease-out;
@@ -5189,7 +5189,7 @@ small {
 }
 
 .btn:hover, .btn-large:hover {
-  background-color: #2bbbad;
+  background-color: #e54b1a;
 }
 
 .btn-floating {
