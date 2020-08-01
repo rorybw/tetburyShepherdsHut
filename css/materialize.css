@@ -1655,8 +1655,20 @@
   background-color: #ff9800 !important;
 }
 
+.red-button {
+  background-color: #d13808 !important;
+}
+
+.footer-green {
+  background-color: #314F45 !important;
+}
+
 .orange-text {
   color: #ff9800 !important;
+}
+
+.lightgreen-text {
+  color: #467F3E !important;
 }
 
 .orange.lighten-5 {
@@ -4425,6 +4437,10 @@ nav .input-field label.active i {
 
 a {
   text-decoration: none;
+}
+
+.underline {
+  text-decoration: underline;
 }
 
 html {
